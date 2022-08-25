@@ -11,6 +11,7 @@ public class Demo2 {
 		
 		System.out.println("Test Git commit and jenkins");
 		System.out.println("Test Jenkins");
+		System.out.println("Test jenkins pipeline ");
 	}
 
 }
